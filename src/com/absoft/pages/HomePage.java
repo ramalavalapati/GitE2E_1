@@ -13,7 +13,7 @@ public class HomePage {
 	}
 	//This is Ram added code
 	//This code handles better logic
-	//you are awesome
+	//you are awesome superb
 	
 	
 	public My_Account_Page clickMyAccountLink() {
